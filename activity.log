@@ -28,3 +28,4 @@
 [2023-01-25 11:59:26] Activity: rework api handlers for safer defaults (115926-28)
 [2023-01-25 12:22:05] Activity: update auth checks to address flaky tests (122205-29)
 [2023-01-25 12:22:12] Activity: cleanup error handling to speed up local runs (122212-30)
+[2023-01-27 12:46:28] Activity: optimize auth checks to tighten checks (124628-31)
