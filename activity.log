@@ -145,3 +145,4 @@
 [2023-05-29 13:26:57] Activity: polish logging flow for production parity (132657-145)
 [2023-05-29 14:51:49] Activity: adjust api handlers for production parity (145149-146)
 [2023-05-29 15:15:04] Activity: update task runner for better stability (151504-147)
+[2023-05-29 17:47:05] Activity: improve error handling to improve readability (174705-148)
