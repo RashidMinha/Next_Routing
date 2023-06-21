@@ -171,3 +171,4 @@
 [2023-06-14 17:15:25] Activity: adjust startup routine for edge cases (171525-171)
 [2023-06-19 09:15:09] Activity: update task runner to match latest changes (091509-172)
 [2023-06-19 15:43:57] Activity: tweak startup routine to speed up local runs (154357-173)
+[2023-06-21 10:53:37] Activity: optimize api handlers to reduce noise (105337-174)
