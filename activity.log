@@ -172,3 +172,4 @@
 [2023-06-19 09:15:09] Activity: update task runner to match latest changes (091509-172)
 [2023-06-19 15:43:57] Activity: tweak startup routine to speed up local runs (154357-173)
 [2023-06-21 10:53:37] Activity: optimize api handlers to reduce noise (105337-174)
+[2023-06-21 12:24:13] Activity: update dependency wiring for production parity (122413-175)
