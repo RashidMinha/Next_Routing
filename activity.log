@@ -186,3 +186,4 @@
 [2023-06-26 11:12:09] Activity: rework build setup for safer defaults (111209-186)
 [2023-06-26 13:47:29] Activity: cleanup auth checks to address flaky tests (134729-187)
 [2023-06-27 11:16:43] Activity: rework test coverage to unblock next steps (111643-188)
+[2023-06-27 12:14:27] Activity: refactor deployment script for production parity (121427-189)
