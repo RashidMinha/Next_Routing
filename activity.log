@@ -207,3 +207,4 @@
 [2023-07-14 14:47:47] Activity: improve logging flow for safer defaults (144747-207)
 [2023-07-19 12:39:30] Activity: improve config loading to address flaky tests (123930-208)
 [2023-07-19 12:39:31] Activity: cleanup config loading after review feedback (123931-209)
+[2023-07-19 12:39:32] Activity: tweak docs examples to speed up local runs (123932-210)
