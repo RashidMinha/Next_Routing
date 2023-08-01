@@ -225,3 +225,4 @@
 [2023-07-31 16:39:45] Activity: refactor logging flow to improve readability (163945-225)
 [2023-08-01 11:20:43] Activity: improve deployment script after review feedback (112043-226)
 [2023-08-01 11:26:36] Activity: optimize build setup after review feedback (112636-227)
+[2023-08-01 11:47:15] Activity: fix deployment script after review feedback (114715-228)
