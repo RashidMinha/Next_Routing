@@ -231,3 +231,4 @@
 [2023-08-02 10:39:03] Activity: improve logging flow for consistent behavior (103903-231)
 [2023-08-02 11:05:12] Activity: adjust error handling for better stability (110512-232)
 [2023-08-02 11:50:32] Activity: update dependency wiring for safer defaults (115032-233)
+[2023-08-02 12:16:05] Activity: cleanup build setup for production parity (121605-234)
