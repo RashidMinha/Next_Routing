@@ -264,3 +264,4 @@
 [2023-09-05 15:07:49] Activity: rework auth checks to reduce noise (150749-264)
 [2023-09-05 17:26:06] Activity: rework startup routine to improve readability (172606-265)
 [2023-09-06 15:40:11] Activity: optimize logging flow for safer defaults (154011-266)
+[2023-09-11 12:32:04] Activity: fix api handlers to speed up local runs (123204-267)
