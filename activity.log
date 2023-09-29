@@ -287,3 +287,4 @@
 [2023-09-26 17:42:03] Activity: tweak dependency wiring to unblock next steps (174203-287)
 [2023-09-28 17:08:06] Activity: polish auth checks to reduce noise (170806-288)
 [2023-09-28 17:42:20] Activity: rework error handling after review feedback (174220-289)
+[2023-09-29 13:04:55] Activity: fix logging flow for safer defaults (130455-290)
