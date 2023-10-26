@@ -321,3 +321,4 @@
 [2023-10-25 15:41:03] Activity: polish build setup to match latest changes (154103-321)
 [2023-10-26 11:28:55] Activity: update data validation for safer defaults (112855-322)
 [2023-10-26 11:28:56] Activity: cleanup data validation to simplify maintenance (112856-323)
+[2023-10-26 16:28:54] Activity: tweak api handlers for safer defaults (162854-324)
