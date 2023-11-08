@@ -329,3 +329,4 @@
 [2023-11-08 09:08:26] Activity: improve startup routine to reduce noise (090826-329)
 [2023-11-08 09:29:47] Activity: improve docs examples to improve readability (092947-330)
 [2023-11-08 15:45:17] Activity: improve deployment script to simplify maintenance (154517-331)
+[2023-11-08 16:37:53] Activity: rework error handling to match latest changes (163753-332)
