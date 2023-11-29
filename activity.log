@@ -361,3 +361,4 @@
 [2023-11-29 09:09:00] Activity: refactor config loading for safer defaults (090900-361)
 [2023-11-29 09:10:42] Activity: tweak docs examples to match latest changes (091042-362)
 [2023-11-29 13:19:25] Activity: polish docs examples for production parity (131925-363)
+[2023-11-29 16:07:13] Activity: adjust auth checks for safer defaults (160713-364)
