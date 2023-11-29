@@ -359,3 +359,4 @@
 [2023-11-27 11:22:32] Activity: rework logging flow after review feedback (112232-359)
 [2023-11-27 15:56:08] Activity: rework task runner to match latest changes (155608-360)
 [2023-11-29 09:09:00] Activity: refactor config loading for safer defaults (090900-361)
+[2023-11-29 09:10:42] Activity: tweak docs examples to match latest changes (091042-362)
